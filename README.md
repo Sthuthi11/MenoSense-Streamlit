@@ -1,3 +1,2 @@
-__MenoSense Streamlit__
 - A menopause stage prediction system using an ensemble machine learning model, trained on a custom dataset.  
 - This app analyzes user symptoms and health parameters to classify menopause stage (Premenopause, Perimenopause, Postmenopause) and provides personalized recommendations.  
